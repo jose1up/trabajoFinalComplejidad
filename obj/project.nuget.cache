@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "+c4bAYMM5jq9PutiVkOMJFKTkcW7MNvrp0gfXePG4SAS2VqG8JJa7xiPglsf/6pJkbN6M6JsVN7MFCVr+L0Uxw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\skynet\\Downloads\\TPF_WIW_\\TPF_WIW\\WiW.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\skynet\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\skynet\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\skynet\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\skynet\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.29\\microsoft.netcore.app.host.win-x64.6.0.29.nupkg.sha512"
+  ],
+  "logs": []
+}
